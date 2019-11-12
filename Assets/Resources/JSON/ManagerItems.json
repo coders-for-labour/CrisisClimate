@@ -1,0 +1,66 @@
+[
+    {
+        "itemName": "Food Manager",
+        "itemDescription": "A manager to help prepare your meals",
+        "imageName": "FoodIcon",
+        "baseCost": 8000,
+        "locked": true,
+        "itemID": 0
+    },
+    {
+        "itemName": "GYM Manager",
+        "itemDescription": "A personal trainer",
+        "imageName": "GymIcon",
+        "baseCost": 16000,
+        "locked": true,
+        "itemID": 1
+    },
+    {
+        "itemName": "Game Manager",
+        "itemDescription": "A manager to help work on your game",
+        "imageName": "ComputerIcon",
+        "baseCost": 32000,
+        "locked": true,
+        "itemID": 2
+    },
+    {
+        "itemName": "Holiday Manager",
+        "itemDescription": "A manager make sure you take breaks",
+        "imageName": "HolidayIcon",
+        "baseCost": 64000,
+        "locked": true,
+        "itemID": 3
+    },
+    {
+        "itemName": "Music Manager",
+        "itemDescription": "A manager to help you write music",
+        "imageName": "MusicIcon",
+        "baseCost": 128000,
+        "locked": true,
+        "itemID": 4
+    },
+    {
+        "itemName": "Cat Manager",
+        "itemDescription": "A manager to help look after the cats",
+        "imageName": "CatIcon",
+        "baseCost": 256000,
+        "locked": true,
+        "itemID": 5
+    },
+    {
+        "itemName": "House Manager",
+        "itemDescription": "A manager to help work on your house",
+        "imageName": "HouseIcon",
+        "baseCost": 512000,
+        "locked": true,
+        "itemID": 6
+    },
+    {
+        "itemName": "Weed Manager",
+        "itemDescription": "A manager to keep your spliff rolled",
+        "imageName": "WeedIcon",
+        "baseCost": 1024000,
+        "locked": true,
+        "itemID": 7
+    }
+]

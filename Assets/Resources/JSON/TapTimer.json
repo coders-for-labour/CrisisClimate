@@ -1,0 +1,98 @@
+[
+    {
+        "itemName": "Eat Food",
+        "itemDescription": "Dayum son I'm hungry...",
+        "imageName": "FoodIcon",
+        "numberOwned": 0,
+        "baseCost": 12,
+        "baseTimerLength": 0.25,
+        "valueToAddOnCompletion": 3,
+        "locked": true,
+        "itemID": 0,
+        "hasManager": false
+    },
+    {
+        "itemName": "Go Gym",
+        "itemDescription": "Get that pump on",
+        "imageName": "GymIcon",
+        "numberOwned": 0,
+        "baseCost": 100,
+        "baseTimerLength": 0.8,
+        "valueToAddOnCompletion": 25,
+        "locked": true,
+        "itemID": 1,
+        "hasManager": false
+    },
+    {
+        "itemName": "Work on Game",
+        "itemDescription": "Game dev is easy",
+        "imageName": "ComputerIcon",
+        "numberOwned": 0,
+        "baseCost": 1000,
+        "baseTimerLength": 1.5,
+        "valueToAddOnCompletion": 250,
+        "locked": true,
+        "itemID": 2,
+        "hasManager": false
+    },
+    {
+        "itemName": "Go on Holiday",
+        "itemDescription": "Chillax",
+        "imageName": "HolidayIcon",
+        "numberOwned": 0,
+        "baseCost": 10000,
+        "baseTimerLength": 3,
+        "valueToAddOnCompletion": 2500,
+        "locked": true,
+        "itemID": 3,
+        "hasManager": false
+    },
+    {
+        "itemName": "Write Music",
+        "itemDescription": "Jammin on mah Bayus",
+        "imageName": "MusicIcon",
+        "numberOwned": 0,
+        "baseCost": 100000,
+        "baseTimerLength": 6,
+        "valueToAddOnCompletion": 25000,
+        "locked": true,
+        "itemID": 4,
+        "hasManager": false
+    },
+    {
+        "itemName": "Play With Cats",
+        "itemDescription": "Me-yooooow",
+        "imageName": "CatIcon",
+        "numberOwned": 0,
+        "baseCost": 1000000,
+        "baseTimerLength": 12,
+        "valueToAddOnCompletion": 250000,
+        "locked": true,
+        "itemID": 5,
+        "hasManager": false
+    },
+    {
+        "itemName": "Work on House",
+        "itemDescription": "Jack didn't build shit...",
+        "imageName": "HouseIcon",
+        "numberOwned": 0,
+        "baseCost": 10000000,
+        "baseTimerLength": 24,
+        "valueToAddOnCompletion": 2500000,
+        "locked": true,
+        "itemID": 6,
+        "hasManager": false
+    },
+    {
+        "itemName": "Smoke 'erb",
+        "itemDescription": "Smoke dem Trees",
+        "imageName": "WeedIcon",
+        "numberOwned": 0,
+        "baseCost": 10000000,
+        "baseTimerLength": 48,
+        "valueToAddOnCompletion": 25000000,
+        "locked": true,
+        "itemID": 7,
+        "hasManager": false
+    }
+]
